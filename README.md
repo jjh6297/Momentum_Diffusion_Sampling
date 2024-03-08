@@ -1,4 +1,4 @@
-# Momentum_Diffusion_Sampling
+# Rethinking Peculiar Images by Diffusion Models: Revealing Local Minima's Role
 
 <!---Code for ["Rethinking Peculiar Images by Diffusion Models: Revealing Local Minima’s Role"]-->
 
@@ -27,3 +27,14 @@ you can generate images from a text prompt using:
 python text2image_Momentum.py --prompt="An astronaut riding a horse"
 ```
 #
+
+
+## Citation
+
+```
+@inproceedings{jang2023learning,
+  title={Rethinking Peculiar Images by Diffusion Models: Revealing Local Minima's Role},
+  author={Jang, Jinhyeok and Youn, Chan-Hyun and Jeon, Minsu and Lee, Changha},
+  booktitle={AAAI},
+  year={2024}
+}
